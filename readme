@@ -1,0 +1,2 @@
+This tools aims to help AWS cloud admin find untagged EC2 instances quickly.
+It depends on an authorized AWS IAM user key pair to activate.
